@@ -1,4 +1,4 @@
-#Reach weather app
+# React weather app
 This is a weather application made with react using weaather API.
 
 ## Available Scripts
